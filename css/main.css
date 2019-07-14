@@ -264,13 +264,15 @@ p.lead {
  * ------------------------------------------------------------------- */
 
 .sub {
-  padding: 2em 5em;
-  font: normal 40px/50px Arial, sans-serif;
+  padding: 2em 10em;
+  font: normal 30px/50px Arial, sans-serif;
   color: #343a40;
+  
 }
 
 p {
-  height: 50px;
+  height:49px;
+ 
   float: left;
   margin-right: 0.3em;
 }
@@ -365,7 +367,7 @@ span1 {
     font-size: 25px;
   }
   .gradient-button-3 {
-    margin-left: 25%;
+    margin-left: 35%;
   }
   .heading {
     font-size: 35px !important;

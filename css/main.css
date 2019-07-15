@@ -365,6 +365,7 @@ span1 {
   }
   .text {
     font-size: 15px;
+    padding:10px !important;
   }
   .gradient-button-3 {
     margin-left: 25%;
@@ -372,7 +373,6 @@ span1 {
   .heading {
     font-size: 35px !important;
     margin-top: 20%;
-    color: red;
   }
   .page-hero {
     width: 100%;
